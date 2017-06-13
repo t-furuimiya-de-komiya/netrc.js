@@ -1,0 +1,7 @@
+machine nanika.example.com
+# comment for nanika.example.com
+    login dareka@nanika.example.com
+    password ****
+    anything else
+default login anonymous password anon@nanika.example.com
+  orphan
